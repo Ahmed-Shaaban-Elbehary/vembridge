@@ -1,4 +1,4 @@
-# Viva DSV (C#)
+# AutoDSV (C#)
 Library for reading and writing delimiter-separated values (DSV), e.g. CSV and TXT formats.
 
 Support is planned for the following functionalities:

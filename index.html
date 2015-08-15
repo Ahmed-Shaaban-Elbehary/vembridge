@@ -42,6 +42,24 @@
 </ul>
 
 <h2>
+<a id="quick-start" class="anchor" href="#quick-start" aria-hidden="true"><span class="octicon octicon-link"></span></a>Quick start</h2>
+
+<p><strong>Reading DSV files</strong></p>
+
+<div class="highlight highlight-cs"><pre><span class="pl-k">string</span> path = <span class="pl-s"><span class="pl-pds">"</span>C:<span class="pl-cce">\p</span>ath<span class="pl-cce">\t</span>o<span class="pl-cce">\s</span>ome_file.csv<span class="pl-pds">"</span></span>;
+<span class="pl-k">string</span> delimiter = <span class="pl-s"><span class="pl-pds">"</span>,<span class="pl-pds">"</span></span>;
+List&lt;<span class="pl-k">string</span>[]&gt; records;
+<span class="pl-k">using</span> (TextReader textReader = <span class="pl-k">new</span> StreamReader(path))
+{
+    StringDsvReader dsvReader = <span class="pl-k">new</span> StringDsvReader(textReader, delimiter);
+    records = dsvReader.ReadToEnd();
+}</pre></div>
+
+<p><strong>Coming soon</strong></p>
+
+<p>The "Quick start" section will soon be updated with examples of how you can set up your custom DSV-object converters for reading and writing, and also how to read/write DSV files with internationalization support. Stay tuned!</p>
+
+<h2>
 <a id="licence" class="anchor" href="#licence" aria-hidden="true"><span class="octicon octicon-link"></span></a>Licence</h2>
 
 <p>This project is licenced under the Apache License Version 2.0, which means it can be freely redistributed / modified / used in both commercial and non-commercial projects.</p>

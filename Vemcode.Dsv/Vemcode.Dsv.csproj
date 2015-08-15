@@ -7,8 +7,8 @@
     <ProjectGuid>{F57C15BD-0BFD-4CD7-8C59-F90CB0834BCB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Viva.Dsv</RootNamespace>
-    <AssemblyName>Viva.Dsv</AssemblyName>
+    <RootNamespace>Vemcode.Dsv</RootNamespace>
+    <AssemblyName>Vemcode.Dsv</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

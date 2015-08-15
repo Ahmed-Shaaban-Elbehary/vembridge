@@ -6,8 +6,8 @@
     <ProjectGuid>{D6F3C002-6B3F-4D8B-A37D-39069C65ABE1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Viva.Dsv.Test</RootNamespace>
-    <AssemblyName>Viva.Dsv.Test</AssemblyName>
+    <RootNamespace>Vemcode.Dsv.Test</RootNamespace>
+    <AssemblyName>Vemcode.Dsv.Test</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -54,9 +54,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Lib\Viva.Dsv\Viva.Dsv.csproj">
+    <ProjectReference Include="..\Vemcode.Dsv\Vemcode.Dsv.csproj">
       <Project>{f57c15bd-0bfd-4cd7-8c59-f90cb0834bcb}</Project>
-      <Name>Viva.Dsv</Name>
+      <Name>Vemcode.Dsv</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

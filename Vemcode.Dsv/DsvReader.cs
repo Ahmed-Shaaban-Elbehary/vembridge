@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Viva.Dsv
+namespace Vemcode.Dsv
 {
     /// <summary>
     /// Used for reading delimited text (e.g. comma-delimited, tab-delimited formats)

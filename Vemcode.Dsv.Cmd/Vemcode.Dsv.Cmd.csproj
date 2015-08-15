@@ -7,8 +7,8 @@
     <ProjectGuid>{73150578-6599-430E-B6ED-7BAB9406E54C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Viva.Dsv.Console</RootNamespace>
-    <AssemblyName>Viva.Dsv.Console</AssemblyName>
+    <RootNamespace>Vemcode.Dsv.Cmd</RootNamespace>
+    <AssemblyName>Vemcode.Dsv.Cmd</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -48,9 +48,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Lib\Viva.Dsv\Viva.Dsv.csproj">
+    <ProjectReference Include="..\Vemcode.Dsv\Vemcode.Dsv.csproj">
       <Project>{f57c15bd-0bfd-4cd7-8c59-f90cb0834bcb}</Project>
-      <Name>Viva.Dsv</Name>
+      <Name>Vemcode.Dsv</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

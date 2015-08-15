@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Viva.Dsv.Console
+namespace Vemcode.Dsv.Cmd
 {
     class Program
     {

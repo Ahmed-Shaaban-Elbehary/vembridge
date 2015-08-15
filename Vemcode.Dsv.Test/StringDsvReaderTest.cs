@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.IO;
 using System.Collections.Generic;
 
-namespace Viva.Dsv.Test
+namespace Vemcode.Dsv.Test
 {
     [TestClass]
     public class StringDsvReaderTest

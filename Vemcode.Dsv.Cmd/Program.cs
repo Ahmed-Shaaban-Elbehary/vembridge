@@ -7,8 +7,15 @@ using System.Threading.Tasks;
 
 namespace Vemcode.Dsv.Cmd
 {
+    /// <summary>
+    /// Main execution class for command line program
+    /// </summary>
     class Program
     {
+        /// <summary>
+        /// Main entry point for command line program
+        /// </summary>
+        /// <param name="args">Command line arguments</param>
         static void Main(string[] args)
         {
             if(args.Length < 2)

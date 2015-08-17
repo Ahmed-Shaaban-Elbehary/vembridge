@@ -20,4 +20,4 @@ This project is licensed under the Apache License Version 2.0, which means it ca
 
 ## Documentation
 
-Visit the project page http://valentinacupac.github.io/vemcode-dsv-cs/
+Visit the project page http://optivem.github.io/vembridge

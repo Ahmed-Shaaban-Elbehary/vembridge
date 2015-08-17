@@ -1,5 +1,5 @@
-# Vemcode DSV (C#)
-Vemcode DSV is a general-purpose utility library for reading and writing delimiter-separated values (DSV) with support for internationalization and custom formats.
+# Vembridge
+Vembridge is a general-purpose utility library for reading and writing delimiter-separated values (DSV) with support for internationalization and custom formats.
 
 ## Functionalities
 
@@ -16,7 +16,7 @@ Functionalities which are in the progress of being implemented:
 
 ## Licence
 
-This project is licenced under the Apache License Version 2.0, which means it can be freely redistributed / modified / used in both commercial and non-commercial projects.
+This project is licensed under the Apache License Version 2.0, which means it can be freely redistributed / modified / used in both commercial and non-commercial projects.
 
 ## Documentation
 

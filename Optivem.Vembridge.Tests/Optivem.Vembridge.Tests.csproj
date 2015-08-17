@@ -54,7 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Vemcode.Dsv\Vemcode.Dsv.csproj">
+    <ProjectReference Include="..\Optivem.Vembridge\Optivem.Vembridge.csproj">
       <Project>{f57c15bd-0bfd-4cd7-8c59-f90cb0834bcb}</Project>
       <Name>Vemcode.Dsv</Name>
     </ProjectReference>
